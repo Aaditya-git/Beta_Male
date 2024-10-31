@@ -1,0 +1,5 @@
+pvrecorder
+
+openai
+
+set PYTHONPATH=C:\Clutchgod\Beta_Male
