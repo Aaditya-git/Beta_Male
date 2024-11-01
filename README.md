@@ -1,2 +1,2 @@
 # Beta_Male
-BETA MALE welcomes you and does whatever my admin(clutchgod) says ............... !
+This a personal Assistant for me and for my future :)
