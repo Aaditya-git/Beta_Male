@@ -1,5 +1,4 @@
 pvrecorder
-
+pyttsx3
 openai
-
-set PYTHONPATH=C:\Clutchgod\Beta_Male
+whisper
