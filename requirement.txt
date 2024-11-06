@@ -2,3 +2,5 @@ pvrecorder
 pyttsx3
 openai
 whisper
+pywhatkit
+SpeechRecognition

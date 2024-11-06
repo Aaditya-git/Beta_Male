@@ -1,1 +1,1 @@
-saved_audio_path = r'C:\Clutchgod\Beta_Male\Saved_Audio\audio.wav'
+saved_audio_path = r'D:\study-code-repeat\coding\Beta_Male\Saved_Audio\audio.wav'
