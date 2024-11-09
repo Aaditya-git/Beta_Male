@@ -82,7 +82,7 @@ except sr.UnknownValueError:
 except sr.RequestError:
     print("Error with the speech recognition service.")
     speak("There was an error with the speech recognition service.")
-
+  
 
 def execute_command(text):
 
